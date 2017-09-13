@@ -15,7 +15,7 @@ thumb = "https://storage.googleapis.com/otsimocontent/public/child-images-020.jp
 
 Parents are important for development of every child. Children become self-confident and sturdy individuals when they feel the support of their family until adolescence and be a part of the society. This applies to children with special needs, such as autism. Children with autism who get support from their families in terms of emotion, become outgoing and are reintroduced to the society in a loving way.
 
-### Emotional Needs of Parents of a Child with Autism
+## Emotional Needs of Parents of a Child with Autism
 
 Parents, also, need emotional support. They may behave depressively as they feel insufficient because of their child&#39;s situation. With this, a need for professional hep may arise. In this way, this vain mood will be left behind and all support that the autistic child needs will be provided by the parents.
 
@@ -23,7 +23,7 @@ According to studies, 27% of the parents who have a child with autism refrain fr
 
 Parents of a child with autism should devote as much time for themselves as they do for their child and fulfill their needs too. Activities they participate in with their child would be an excellent exercise for their child to adapt to the society. One of the best ways to teach the rules is for children to practice them.
 
-### How to Determine Emotional Needs of a Child with Autism
+## How to Determine Emotional Needs of a Child with Autism
 
 To determine emotional needs of a child with autism, the behavior should be examined closely. A system should be created by observing the situations they overreact or calmly respond. Thus, habits of the child can be redetermined and rearranged.
 
@@ -31,6 +31,6 @@ Parents play a huge role in determining the emotional needs of a child with auti
 
 To further strengthen the child emotionally, they should be lead to good behavior. When rewarded for every right and nice behavior, the child will be lead to a right track and continuity of this behavior will be ensured. While ensuring the continuity, the child will be encouraged to be on the right track
 
-### Sources:
+**Sources:**
 [http://www.engelsizumutlar.com/files/otizm\_el\_kitabi\_engelsizumutlar.com.pdf](http://www.engelsizumutlar.com/files/otizm_el_kitabi_engelsizumutlar.com.pdf)
 Autism Journey: Children with Autism Parents' Opinion on Social Support; Ufuk Özkubat, Selda Özdemir, Ömür Gürel Selimoğlu, Gökhan Töret

@@ -21,7 +21,7 @@ There are many requirements for a successful inclusive education. First of these
 
 Another importance of inclusion to a child with autism is the increase in ability to learn by watching peers. Children with autism, who spend time with their peers, can generally learn useful skills from children without autism.
 
-###Practices for Successful Inclusion###
+## Practices for Successful Inclusion###
 
 The most simple and effective way to give a successful inclusive education is to fulfill necessary services. When provided with an educated tutor, a cultivated parent interaction and a physically healthy environment; a child with autism can easily receive necessary inclusive education.
 
@@ -33,6 +33,6 @@ Parents of other children in the class also take an important part in determinin
 
 Another crucial effect of inclusive education on children with autism is that they can gain experience on how to live in a society after school. Children with autism can get job opportunities after school, and they will pay attention to applying social norms they have learned in school. Individuals with autism who received accurate and effective inclusive education can adapt to life more easily and sustain a more comfortable life.
 
-Sources:
+**Sources:**
 [Sabanci Vakfi](http://www.sabancivakfi.org/files/html/programlar/tghp/Tohum_Kaynastirma_Durum_Raporu.pdf)
 [Parent Involvement in Inclusion Programs, Journal of Education, 1996,2 (2) 25,43 Bülbin Sucuoğlu, Ankara University](http://www.isikozelegitim.com/uploads/File/Otistiklerin%20Kaynastirma%20Egitimi.pdf)

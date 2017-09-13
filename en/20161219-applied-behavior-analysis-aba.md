@@ -44,7 +44,7 @@ Applied behavior analysis is a discipline that aims to change behavior that is s
 
 In this analysis method that behavioral psychology suggests and applied depending on process of basic behavior principles, the primary issue is to profile the targeted behavior in detail. It is important that this behavior does not specify what the individual cannot do, it is what they can do while deciding on a "targeted behavior" that is functional for the individual and their environment, a prerequisite for more complicated behaviors, and will help the individual to participate in social life easier.
 
-Besides from that, while deciding, the functional relationship between _environment_, also called "independent variable” and _targeted behavior_, also called "dependent variable, should be examined in detail.
+Besides from that, while deciding, the functional relationship between environment, also called "independent variable” and targeted behavior, also called "dependent variable, should be examined in detail.
 
 Evaluating and recording the targeted behavior is the next stage after determining the targeted behavior, by interviewing the individual or important people surrounding them, using an assessment tools or directly observing. Targeted behavior assessment and recording procedure is completed by collecting photographs and video record, behavior data via control lists (or event records), ABC data collection, controlled environment data, duration and latency data and observing. Since it is not possible to see developments if the behavior is not analyzed carefully and showed in graphic, and the risk of forgetting unrecorded behavior is out there, an utmost attention must be paid at this point.
 

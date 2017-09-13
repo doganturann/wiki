@@ -21,7 +21,7 @@ Early diagnosis is significant for autism treatment. The sooner the diagnosis is
 
 ## Diagnosis
 
-First step in **autism treatment** is diagnosis. It is known that autism is a disorder seen in one in every 68 children. Many cases can be detected from the early baby ages. If the child is not showing developments that the age group he or she is in supposed to show, there is a great chance that the child is [suffering from autism](/typical-characteristics-autism-spectrum-disorder/).
+First step in autism treatment is diagnosis. It is known that autism is a disorder seen in one in every 68 children. Many cases can be detected from the early baby ages. If the child is not showing developments that the age group he or she is in supposed to show, there is a great chance that the child is [suffering from autism](/typical-characteristics-autism-spectrum-disorder/).
 
 Communication and social development disorders are the primary symptoms of autism. If the communication with the parents, immediate environment and friends is not healthy, if the child cannot communicate, form a sentence or has difficulty in understanding or interpreting what's being said, the child may have autism. However, it is important to note that not every child with communication failures suffer from autism.
 

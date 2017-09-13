@@ -31,7 +31,7 @@ It is also very important to enlighten other children in the family without auti
 
 According to the research, having a child with autism limits social activities parents take part in. That is why parents need social support. Parents with autistic children should get their loved ones&#39; help without hesitation and not debar from social interactions.
 
-Sources:
+**Sources:**
 
 - Otizme Yolculuk: Otizmli Çocuğa Sahip Ebeveynlerin Sosyal Destek Algılarına İlişkin Görüşleri, Ufuk Özkubati, Selda Özdemirii, Ömür Gürel Selimoğluiii, Gökhan Töretiv
 
